@@ -1,0 +1,99 @@
+body {
+	margin:0;
+	padding:0;
+	font:13px/16px "Lucida Grande", Arial, Sans-serif;
+	color:#789;
+
+	background-image: url(img/front-bg.gif);
+	background-repeat: repeat;
+}
+
+h1,h2,h3,h4,h5,h6{font-color:#544892;}
+{font-size:43px; font-family:"monotype Corsiva"; color:#900908; text-align:center;}
+.tag
+{text-transform:uppercase; color:#3F3F3F; padding-left:22px; font-weight:bold;}
+.leftlinks
+{height:40px; line-height:40px; color:#900908; font-size:18px; text-transform:uppercase; border-bottom:1px solid #C1C1C1; padding-left:20px;}
+.leftlinks a
+{color:#900908; text-decoration:none;}
+.leftlinks a:hover
+{color:#000000; text-decoration:line-through; }
+.heading
+{font-family:"trebuchet MS"; font-size:17px; height:40px; line-height:40px; color:#544892;}
+#main
+{padding:10px; text-align:justify;}
+
+.style2 {
+	padding-left:20px;
+	font-size: 18px;
+	font-weight: bold;
+	color:#455375;
+}
+.style3 {color: #FFFFFF}
+
+.heading2
+{font-family:"trebuchet MS"; font-size:17px; height:40px; line-height:40px; color:#455375; padding-left:20px;}
+.more
+{font-weight:bold; font-size:11px; font-family:tahoma; height:25px; line-height:25px;}
+.more a
+{color:#3F3F3F; text-decoration:none;}
+.more a:hover
+{color:#3F3F3F; text-decoration:underline;}
+.rates{font-family:"trebuchet MS"; font-size:17px; color:#544892;}
+.heading-n
+{color:#900908; font-size:18px; text-transform:uppercase; height:40px; line-height:40px; padding-left:20px;}
+.heading-n2
+{font-color:#455375;}
+.toplinks
+{width:70px; text-align:center; font-family:tahoma; font-size:11px;}
+.toplinks a
+{text-decoration:none;color:#544892;}
+.toplinks a:hover
+{text-decoration:none;color:#000000;}
+.sap
+{width:1px; color:#544892;}
+
+
+
+.log {
+	height:50px;
+	border:dotted;
+	border-color:#435072;
+	padding-left:10px;
+	padding-left:10px;
+	
+	}
+
+#news {
+	padding-left:20px;
+	padding-top:20px;
+	font-weight:bold;
+	font-size:14px;
+	color:#FFF;
+	
+	}
+.feed {	
+    margin-left:2px;
+	margin-right:2px;
+	background:url(img/bg-feed.jpg); 
+	background-repeat:repeat-y;
+	color:#CCC;
+	font-size:11px;}
+	
+.feed a {
+	color:#F90; text-decoration:none;
+	}
+.feed a:hover {
+	text-decoration:underline;
+	color:#333;
+	
+	}e
+.footer {
+	
+	text-align:center;
+	font-size:9px;
+	height:50px;
+	background-color::#c8d1e6;
+	background:url(img/footerbg.jpg); 
+	background-repeat:repeat-x;
+	}
